@@ -1,4 +1,4 @@
-# Reference - This was the sample project thought in the course Inroduction to Artificial Intelligence with Python in "edx" platform, I learned the source code and made a replica of the orginal source code to understand the functionalities.
+# Reference - This was the sample project taught in the course Inroduction to Artificial Intelligence with Python in "edx" platform, I learned the source code and made a replica of the orginal source code to understand the functionalities.
 * Components in respective folders
 * src - contains source code
 * public - contains the data or initial maze made using text file with
